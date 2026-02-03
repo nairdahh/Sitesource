@@ -5,7 +5,7 @@
     "Theme" : "theme",
 	"ThemeFolder" : "..\\",
     "SourceFoldersToCopy" : ["CheatTables", "Images", "HallOfFramed", "ShaderTogglers", "GuideResources"],
-    "Footer" : "&copy 2019-2025 FRAMED. All rights reserved.",
+    "Footer" : "&copy 2019-2026 FRAMED. All rights reserved.",
     "StartingPageName" : "Home",
     "MaxLevelInToC" : "2",
     "Pages" : 
@@ -165,6 +165,7 @@
 				"Sekiro: Shadows Die Twice" : "GameGuides\\sekiro.md",
 				"Shadow of the Tomb Raider" : "GameGuides\\sottr.md",
 				"Silent Hill 2 Remake" : "GameGuides\\SH2R.md",
+				"Silent Hill f" : "GameGuides\\SHF.md",
 				"Sleeping Dogs: Definitive Edition" : "GameGuides\\SleepingDogsDE.md",
 				"South of Midnight" : "GameGuides\\South_of_Midnight.md",
 				"Spec Ops: The Line": "GameGuides\\spec-ops-the-line.md",
