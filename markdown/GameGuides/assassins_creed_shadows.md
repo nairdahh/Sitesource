@@ -24,7 +24,7 @@ Game version | 1.1.8
 
 ## Useful Links
 
-* [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Assassin%27s_Creed_Valhalla)
+* [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Assassin%27s_Creed_Shadows)
 * [Lyall's ACShadowsFix](https://codeberg.org/Lyall/ACShadowsFix)  
   Adds various fixes to the game.
   * Skip intro videos.
