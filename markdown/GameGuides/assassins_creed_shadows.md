@@ -11,12 +11,12 @@ Custom Aspect Ratios | Yes
 Reshade | Yes
 Ansel | No
 Graphics API | DirectX 12
-Game version | 1.1.8
+Game version | 1.1.8 (Ubisoft Connect)
  
 ## Tools
 
 * [Camera tools by Otis_Inf](https://patreon.com/Otis_Inf)  
-**[Features](https://opm.fransbouma.com/Cameras/acshadows.htm)**: Camera control, FoV control, Timestop, Game speed control, HUD toggle, Hotsampling, Time of Day control, Cutscene DOF removal, Letterbox removal in custom aspect ratios, Fog control, Exposure control, Higher LoD selection, Photomode range removal, Outline removal
+**[Features](https://opm.fransbouma.com/Cameras/acshadows.htm)**: Camera control, FoV control, timestop, game speed control, HUD toggle, hotsampling, time of day control, cutscene DOF removal, letterbox removal in custom aspect ratios, fog control, exposure control, higher LoD selection, photomode range removal, outline removal
 
 ## Tips and Tricks
 
@@ -34,7 +34,5 @@ Game version | 1.1.8
   * Allow cutscene frame generation.
   * Disable pillarboxing/letterboxing in cutscenes.
   * Option to center the gameplay camera.
-* [Shader Toggler](https://github.com/FransBouma/ShaderToggler)  
-  Toggle individual visual effects like lighting, shadows, meshes, and UI at runtime.
 * [Stutter Fix (2026 Update)](https://www.nexusmods.com/assassinscreedshadows/mods/183)  
   Adds DirectStorage patch to reduce stuttering.
